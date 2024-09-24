@@ -3,5 +3,5 @@ diffusers==0.21.1
 Flask==2.3.3
 torch==2.0.1
 transformers
-numpy
+numpy<2
 gunicorn==20.1.0
